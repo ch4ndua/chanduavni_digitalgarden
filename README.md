@@ -1,35 +1,17 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dbb030f3-9d99-4a5c-86ed-f68e81a2e4a5/deploy-status)](https://app.netlify.com/sites/chanduavni-digitalgarden/deploys)
 
-# Digital garden Jekyll template
+# Chandu Avni's Digital Garden
+## Digital Gardens
+Digital gardens are a way to present ideas and information. The content in a digital garden differs from a blog, because the latter is organized by reverse chronology and the former is nonlinear and based on forming links between ideas. In many (but not all) cases, blog posts are intended to be perfect at the time of publication and rarely edited afterwards. Digital gardens allow for quick notes that can be revisted in the future. (Read [Maggie Appleton's A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)for further information on digital gardens vs blogs.) Ideas in a digital garden grow through writing and revising in public, which lends itself to the concept of learning in public. ([Rizèl Scarlett's How to learn in public](https://dev.to/blackgirlbytes/how-to-learn-in-public-1coh) elaborates on the benefits of learning in public.)
 
-Use this template repository to get started with your own digital garden.
+## Set Up
+The site runs on a subdomaain of my [main website](https://chanduavni.com/). (Main website's repository is available on [GitHub](https://github.com/ch4ndua/chanduavni-site.git).)
 
-**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
+This site is a fork of [Maxime Vaillancourt's digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template#license).
 
-Preview the template here: https://digital-garden-jekyll-template.netlify.app/
+I loosely followed [Mike Tannenbaum's guide](https://refinedmind.co/obsidian-jekyll-workflow) for setting up markdown files using [Obsidian](https://github.com/obsidianmd) within the [Jekyll](https://github.com/jekyll/jekyll) directory for the digital garden.
 
-- Based on Jekyll, a static website generator
-- Supports Roam-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Includes graph visualization of the notes and their links
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
+## Attribution
 
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
+This site is a fork of [Maxime Vaillancourt's digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template#license). That template's source code is available under the [MIT license](LICENSE.md).
 
-## A note about GitHub Pages
-
-**Update (January 2023)**: it seems that GitHub Pages supports custom plugins now, thanks to GitHub Actions ([view relevant discussion](https://github.com/maximevaillancourt/digital-garden-jekyll-template/discussions/144)).
-
-GitHub Pages only partially supports this template: to power the interactive notes graph, this template uses a custom Jekyll plugin to generate the graph data in [`notes_graph.json`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/7ac331a4113bac77c993856562acc2bfbde9f2f7/_plugins/bidirectional_links_generator.rb#L102), and [GitHub Pages doesn't support custom Jekyll plugins](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins).
-
-If you want to use the graph with GitHub Pages, you may try building your garden locally using Jekyll then pushing the result to GitHub Pages.
-
-Alternatively, you may deploy your garden to Netlify and it'll work out of the box. [I wrote a guide explaining how to set this up](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-If you don't care about the graph, you can simply remove it from this layout, [as explained here](https://github.com/maximevaillancourt/digital-garden-jekyll-template/discussions/132#discussioncomment-3625772).
-
-## License
-
-Source code is available under the [MIT license](LICENSE.md).
