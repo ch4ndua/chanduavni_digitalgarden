@@ -15,7 +15,6 @@ Welcome to my digital garden! This is a place where I can share my learnings and
 
 Learn more [about me](/about) or visit my [main website](https://chanduavni.com/).
 
-<!--
 <strong>Recently Updated Notes</strong>
 
 <ul>
@@ -26,7 +25,6 @@ Learn more [about me](/about) or visit my [main website](https://chanduavni.com/
     </li>
   {% endfor %}
 </ul>
--->
 
 <style>
   .wrapper {
