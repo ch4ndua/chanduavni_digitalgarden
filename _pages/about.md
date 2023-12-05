@@ -12,7 +12,7 @@ Visit my [main website](https://chanduavni.com/) or connect with me on [LinkedIn
 # About This Digital Garden
 When I was setting up my [main website](https://chanduavni.com/), I knew I wanted a place to share my learnings, experiences, and thoughts. 
 
-Read this digital garden's [guiding principles)](/_pages/digital_garden_tos.md) to better understand this space.
+Read this digital garden's [guiding principles](/_pages/digital_garden_tos.md) to better understand this space.
 
 ## Is this a blog?
 No. This is a digital garden.
