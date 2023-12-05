@@ -8,7 +8,7 @@ permalink: /
 # Hi, I'm Chandu Avni! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[this digital garden's guiding principles](/digital_garden_tos.md)</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[this digital garden's guiding principles](/digital_garden_tos)</span> to get started on your exploration.
 </p>
 
 Welcome to my digital garden! This is a place where I can share my learnings and grow my thoughts.
